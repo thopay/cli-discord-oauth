@@ -7,13 +7,13 @@ With no changes to the script besides the sever ID to check for, here's what's r
 
 ## User logs in and is authenticated
 
-![enter image description here](https://i.gyazo.com/5a08a192743d003979af762ffe9922c9.png)
+![Case 1](https://i.gyazo.com/5a08a192743d003979af762ffe9922c9.png)
 
 ## User logs in but is not authenticated
 
-![enter image description here](https://i.gyazo.com/67be89bdc4678b685293eb360aee4a6f.png)
+![Case 2](https://i.gyazo.com/67be89bdc4678b685293eb360aee4a6f.png)
 
 ## User does not login in time
 
-![enter image description here](https://i.gyazo.com/b55c61d6122899f44b960f181947fb10.png)
+![Case 3](https://i.gyazo.com/b55c61d6122899f44b960f181947fb10.png)
 
