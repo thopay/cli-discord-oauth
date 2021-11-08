@@ -15,9 +15,9 @@ def thread_oauth():
     log.disabled = True
     webbrowser.open('http://127.0.0.1:5000/', new=1) #This is where it opens the browser window
 
-    SERVER_ID = '504471685898960969' #Server ID
-    OAUTH2_CLIENT_ID = '735187543242309693' #Client ID
-    OAUTH2_CLIENT_SECRET = 'lS3hffV-fyGawrDNkvjI-VomNG8XI8yw' #Client Secret
+    SERVER_ID = '******************' #Server ID
+    OAUTH2_CLIENT_ID = '******************' #Client ID
+    OAUTH2_CLIENT_SECRET = '*******-************-***********' #Client Secret
     OAUTH2_REDIRECT_URI = 'http://localhost:5000/callback' 
 
     API_BASE_URL = os.environ.get('API_BASE_URL', 'https://discordapp.com/api')
